@@ -16,8 +16,8 @@ Source Website: http://www.fludb.org/brc/staticContent.spg?decorator=influenza&t
 
 Dataset Description: Influenza Research Database (IRD) provides a resource for the influenza virus research community that facilitates an understanding of the influenza virus and how it interacts with the host organism, leading to new treatments and preventive actions. This dataset contains influenza surveillance data, human clinical data associated with virus extracts, phenotypic characteristics of viruses isolated from extracts, and all genomic and proteomic data available in public repositories for influenza viruses. The data set has 1700 records and 15 variables
 
-Dependent Variable: FluTestStatus
-Independent Variables: HostIdentifier, Location, Age, Gender, Temperature, MedicalConditions, Fever, RunningNose, Cough, Myalgia, Headache, ThroatAche, Fatique, Vomiting.
+- Dependent Variable: FluTestStatus
+- Independent Variables: HostIdentifier, Location, Age, Gender, Temperature, MedicalConditions, Fever, RunningNose, Cough, Myalgia, Headache, ThroatAche, Fatique, Vomiting.
 
 ### 3.	Research Problems 
 List your research problems, that is, what kinds of the problems you want to solve.
