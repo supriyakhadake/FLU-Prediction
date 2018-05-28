@@ -1,6 +1,7 @@
 # FLU-Prediction
 
 ## Type of Project: Logistic regression, Decision Tree, Random Forest and KNN-Classifier.
+## Language: R-Programming
 
 ### 1.	Introduction
 Our motivation is to predict if a person is infected by FLU or not infected by FLU based on various factors such as symptoms exhibited by the patient.
